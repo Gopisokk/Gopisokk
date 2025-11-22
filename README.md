@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I am a pre-final year B.Tech student passionate about building intelligent systems. I specialize in <b>Computer Vision</b> and <b>GenAI</b>, and I am currently pivoting into the <b>Web3</b> space to build on the <b>Solana</b> ecosystem.
+  I am a pre-final year B.Tech student passionate about building intelligent systems. My core focus is on <b>GenAI</b>, and I am actively building <b>Web3</b> and <b>DeFi</b> applications on the <b>Solana</b> ecosystem.
 </p>
 
 <p align="center">
@@ -21,36 +21,30 @@
 
 ## 🛠️ Tech Stack
 
-**Languages** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+**Languages**
+<br>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 
-**AI & Data Science** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+**AI & Data Science**
+<br>
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
-**Web & Frameworks** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+**Web & Frameworks**
+<br>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 
-**Blockchain (Learning)** ![Solana](https://img.shields.io/badge/-Solana-9945FF?style=flat&logo=solana&logoColor=white)
-![Web3](https://img.shields.io/badge/-Web3.js-F16822?style=flat&logo=web3.js&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🔍 [Facial Recognition System](YOUR_REPO_LINK_HERE)
-> *Python, OpenCV, Haar Cascade, LBPH*
-* Built a robust security application capable of real-time face detection.
-* Implemented Haar Cascade classifiers for detection and LBPH algorithms for training and recognition.
-
-### 📚 [Chat with Multiple PDFs](YOUR_REPO_LINK_HERE)
-> *LangChain, OpenAI API, Streamlit*
-* Developed a RAG (Retrieval-Augmented Generation) chatbot.
-* Allows users to query multiple PDF documents simultaneously with context-aware answers.
+**Blockchain & Web3**
+<br>
+![Solana](https://img.shields.io/badge/-Solana-9945FF?style=flat&logo=solana&logoColor=white)
+![Anchor](https://img.shields.io/badge/-Anchor_Framework-2596be?style=flat&logo=anchor&logoColor=white)
+![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat&logo=web3.js&logoColor=white)
 
 ---
 
@@ -65,6 +59,6 @@
 
 ## 🌱 Current Focus
 
-- 🔭 I’m currently working on **Solana Smart Contracts with Rust**.
-- 🧠 Deepening my knowledge in **Deep Learning & GenAI Architecture**.
-- 👯 Looking to collaborate on **DeFi projects** or **AI Agents**.
+- 🔭 I’m currently building **Solana Smart Contracts** and exploring **DeFi protocols**.
+- 🧠 Deepening my knowledge in **RAG**, **MCP** (Model Context Protocol), and **Web3**.
+- 👯 Looking to collaborate on **Rust-based Blockchain projects**.
