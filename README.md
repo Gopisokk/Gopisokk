@@ -12,66 +12,19 @@
 
 ---
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+<div align="center">
 
-### $ neofetch --user gopi
+🎓 Pre-final year **B.Tech in AI & Data Science** &nbsp;•&nbsp; 📍 Chennai, India
 
-```
-╔══════════════════════════════════════╗
-║  gopi@dev ~ $                        ║
-╠══════════════════════════════════════╣
-║                                      ║
-║  🖥  OS       AI & Data Science       ║
-║  📍 Location  Chennai, India          ║
-║  🎓 Degree    B.Tech (Pre-Final)      ║
-║                                      ║
-║  💻 Editor    Neovim / VS Code        ║
-║  🐚 Shell     zsh + starship          ║
-║  🦀 Primary   Rust                   ║
-║  🐍 Secondary Python                  ║
-║                                      ║
-║  ⚡ Uptime    Building since 2021     ║
-║  📦 Packages  Open Source Contrib.   ║
-║                                      ║
-║  🔭 Currently  AI × Blockchain        ║
-║  🎯 Goal       Ship things that last  ║
-║                                      ║
-╚══════════════════════════════════════╝
-```
+🦀 Writing systems-level code in **Rust** &nbsp;•&nbsp; ⛓️ Building on **Solana** &nbsp;•&nbsp; 🧠 Exploring **Agentic AI**
 
-</td>
-<td width="45%" valign="top" align="center">
-
-<br/><br/>
-
-```
-  ╔═══ SYSTEM STATS ════╗
-  ║                     ║
-  ║  Rust       ████░░  ║
-  ║  Python     █████░  ║
-  ║  JavaScript ████░░  ║
-  ║  Solidity   ███░░░  ║
-  ║  TypeScript ███░░░  ║
-  ║                     ║
-  ╠═══ CURRENT BUILD ═══╣
-  ║                     ║
-  ║  [████████░░] 78%   ║
-  ║  "never done"       ║
-  ║                     ║
-  ╚═════════════════════╝
-```
-
-<br/>
+*Passionate about building things that are fast, safe, and actually useful.*
 
 [![GitHub followers](https://img.shields.io/github/followers/Gopisokk?style=social)](https://github.com/Gopisokk)
-&nbsp;
+&nbsp;&nbsp;
 [![GitHub stars](https://img.shields.io/github/stars/Gopisokk?style=social)](https://github.com/Gopisokk)
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
