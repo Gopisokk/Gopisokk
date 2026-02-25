@@ -1,145 +1,201 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gopi%20Rk&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Rust%20Developer%20%7C%20Web3%20Builder&descAlignY=55&descSize=18" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=GOPI%20RK&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Rust%20Developer%20%E2%80%A2%20Web3%20Builder&descAlignY=58&descColor=a78bfa&descSize=17" width="100%"/>
 </div>
+
+<br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems+in+Rust+%F0%9F%A6%80;Crafting+DeFi+on+Solana+%E2%9B%93;Exploring+the+edges+of+GenAI+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=A78BFA&center=true&vCenter=true&random=false&width=550&lines=cargo+build+--release+%E2%9C%94;anchor+deploy+--provider.cluster+mainnet+%E2%9C%94;python+train.py+--epochs+100+%E2%9C%94;git+push+origin+main+%E2%9C%94)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" height="250" />
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
-### 👨‍💻 About Me
+### $ neofetch --user gopi
 
-```rust
-struct Gopi {
-    name:       &'static str,
-    role:       &'static str,
-    languages:  Vec<&'static str>,
-    interests:  Vec<&'static str>,
-    currently:  &'static str,
-}
-
-impl Gopi {
-    fn new() -> Self {
-        Self {
-            name: "Gopi Rk",
-            role: "AI & Data Science Undergrad",
-            languages: vec!["Rust", "Python", "JavaScript"],
-            interests: vec!["GenAI", "Web3", "DeFi", "Systems"],
-            currently: "Building at the intersection of AI × Blockchain",
-        }
-    }
-}
+```
+╔══════════════════════════════════════╗
+║  gopi@dev ~ $                        ║
+╠══════════════════════════════════════╣
+║                                      ║
+║  🖥  OS       AI & Data Science       ║
+║  📍 Location  Chennai, India          ║
+║  🎓 Degree    B.Tech (Pre-Final)      ║
+║                                      ║
+║  💻 Editor    Neovim / VS Code        ║
+║  🐚 Shell     zsh + starship          ║
+║  🦀 Primary   Rust                   ║
+║  🐍 Secondary Python                  ║
+║                                      ║
+║  ⚡ Uptime    Building since 2021     ║
+║  📦 Packages  Open Source Contrib.   ║
+║                                      ║
+║  🔭 Currently  AI × Blockchain        ║
+║  🎯 Goal       Ship things that last  ║
+║                                      ║
+╚══════════════════════════════════════╝
 ```
 
-- 🎓 Pre-final year **B.Tech** in AI & Data Science
-- 🦀 Writing systems-level code in **Rust** — performance and safety first
-- ⛓️ Building **Solana smart contracts** and DeFi protocols with Anchor
-- 🧠 Deep-diving into **RAG**, **MCP**, and agentic AI systems
-- 🌱 Always learning — always shipping
-- 📬 Reach me: **gopi030506@gmail.com**
+</td>
+<td width="45%" valign="top" align="center">
 
-<br clear="right"/>
+<br/><br/>
+
+```
+  ╔═══ SYSTEM STATS ════╗
+  ║                     ║
+  ║  Rust       ████░░  ║
+  ║  Python     █████░  ║
+  ║  JavaScript ████░░  ║
+  ║  Solidity   ███░░░  ║
+  ║  TypeScript ███░░░  ║
+  ║                     ║
+  ╠═══ CURRENT BUILD ═══╣
+  ║                     ║
+  ║  [████████░░] 78%   ║
+  ║  "never done"       ║
+  ║                     ║
+  ╚═════════════════════╝
+```
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/Gopisokk?style=social)](https://github.com/Gopisokk)
+&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/Gopisokk?style=social)](https://github.com/Gopisokk)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔥 Tech Arsenal
+## ⚡ What I Build
 
 <div align="center">
 
-### Languages & Runtimes
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<table>
+<tr>
+  <td align="center" width="200">
+    <img src="https://skillicons.dev/icons?i=rust" width="50"/><br/>
+    <b>Systems in Rust</b><br/>
+    <sub>Performance-first.<br/>Memory-safe by design.</sub>
+  </td>
+  <td align="center" width="200">
+    <img src="https://skillicons.dev/icons?i=solidity" width="50"/><br/>
+    <b>DeFi on Solana</b><br/>
+    <sub>Smart contracts.<br/>AMMs. Anchor framework.</sub>
+  </td>
+  <td align="center" width="200">
+    <img src="https://skillicons.dev/icons?i=python" width="50"/><br/>
+    <b>Agentic AI</b><br/>
+    <sub>RAG pipelines.<br/>LLM orchestration. MCP.</sub>
+  </td>
+  <td align="center" width="200">
+    <img src="https://skillicons.dev/icons?i=react" width="50"/><br/>
+    <b>Full-Stack Web</b><br/>
+    <sub>React frontends.<br/>Node/Express APIs.</sub>
+  </td>
+</tr>
+</table>
 
-### AI / ML & Agents
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+</div>
 
-### Blockchain & Web3
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+**Core Languages**
+
+[![Skills](https://skillicons.dev/icons?i=rust,python,js,ts&perline=4)](https://skillicons.dev)
+
+**AI / ML**
+
+[![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=4)](https://skillicons.dev)
+
+**Web3 & Blockchain**
+
+[![Skills](https://skillicons.dev/icons?i=solidity&perline=4)](https://skillicons.dev)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Anchor](https://img.shields.io/badge/Anchor_Framework-2596BE?style=for-the-badge&logo=anchor&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor-2596BE?style=for-the-badge&logo=anchor&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
-### Web & Backend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+**Web & Backend**
 
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=react,nodejs,express,fastapi&perline=4)](https://skillicons.dev)
+
+**Tools**
+
+[![Skills](https://skillicons.dev/icons?i=git,docker,linux,vscode,neovim&perline=5)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## � GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gopisokk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopisokk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api?username=Gopisokk&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopisokk&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Gopisokk&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+<img src="https://streak-stats.demolab.com?user=Gopisokk&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700" width="70%"/>
 
 </div>
 
 <div align="center">
 
-[![Gopi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gopisokk&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Gopisokk)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gopisokk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/Gopisokk)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gopisokk&theme=dracula&hide_border=true&area=true&area_color=a78bfa&line=a78bfa&point=ffffff)](https://github.com/Gopisokk)
 
 </div>
 
 ---
 
-## 🎯 Current Focus
-
-```
-🦀  Systems programming in Rust — low-level, high performance
-⛓️  Solana DeFi — smart contracts, AMMs, liquidity protocols  
-🧠  Agentic AI — RAG pipelines, MCP, multi-agent orchestration
-🔬  Open Source — contributing to foundational infrastructure
-```
-
----
-
-## 🤝 Let's Connect
+## 🏆 Achievements
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-gopi030506%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopi030506@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gopi_Rk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopirk/)
-[![X](https://img.shields.io/badge/X-@RKGopi5-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RKGopi5)
-[![GitHub](https://img.shields.io/badge/GitHub-Gopisokk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gopisokk)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gopisokk&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/Gopisokk)
+
+</div>
+
+---
+
+## 📡 Let's Connect
+
+<div align="center">
+
+<a href="mailto:gopi030506@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/gopirk/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://x.com/RKGopi5">
+  <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Gopisokk">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Gopisokk&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -147,8 +203,8 @@ impl Gopi {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Gopisokk&color=6E40C9&style=flat-square&label=Profile+Views)
+*"First, solve the problem. Then, write the code."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
 </div>
