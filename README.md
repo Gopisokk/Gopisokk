@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:0d1117&height=220&section=header&text=GOPI%20RK&fontSize=80&fontColor=39ff14&animation=blinking&fontAlignY=50&desc=AI%20Engineer%20%20·%20%20Rust%20Developer%20%20·%20%20Web3%20Builder&descAlignY=72&descColor=555555&descSize=13&stroke=39ff14&strokeWidth=0.5" width="100%"/>
 </div>
-
 <br/>
 
 <div align="center">
